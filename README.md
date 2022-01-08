@@ -29,22 +29,26 @@ THEN I find a concise, descriptive title
 |img|3 .png files|4 .jpg files|assets/images/.png & .jpg|
 
 {3 .png:
-brand-awareness.png
-cost-management.png
-lead-generation.png}
+brand-awareness.png 
+cost-management.png  
+lead-generation.png }
+
 
 {4. jpg:
 digital-marketing-meeting.jpg
 online-reputation-management.jpg
+
 search-engine-optimization.jpg
 social-media-marketing.jpg}|
 
 |screenshot image| 2 .png image files |
-Horiseon-page-screenshot-number1.png
-Horiseon-page-screenshot-number2.png |
+Horiseon-page-screenshot-number1.png ![Horiseon-page-screenshot-number1 png](https://user-images.githubusercontent.com/67552318/148625805-4370a6b3-04df-48b9-92fd-b0ffdd8e6480.png)
+Horiseon-page-screenshot-number2.png ![Horiseon-page-screenshot-number2](https://user-images.githubusercontent.com/67552318/148625809-a84b26da-edca-40dc-a5bc-ba976285d5d3.png) |
 
 ##### Accessing the site #####
 Visit {site} (https://niksharpkings.github.io/Horiseon-Module-1-Challenge-1 ) Hosted on GitHub Pages.
 
 no license, no real copyright or trade/banding has been included due to it being a UCLA Extenetion Bootcamp couse homework assignment demo material. 
+
+
 
